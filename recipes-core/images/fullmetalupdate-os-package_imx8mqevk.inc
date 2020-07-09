@@ -3,4 +3,5 @@
 
 IMAGE_INSTALL_append = " \
     kernel-module-imx-gpu-viv \
+    kernel-modules \
 "
